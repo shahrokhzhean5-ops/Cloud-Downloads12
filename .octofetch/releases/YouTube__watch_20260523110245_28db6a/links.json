@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4581",
+  "folder": "YouTube__watch_20260523110245_28db6a",
+  "base_name": "Nightcore_-_Courtesy_Call_(But_it_hits_different)_(Lyrics)_-48KmbuCi_4_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/shahrokhzhean5-ops/Cloud-Downloads12/releases/tag/co-releases-v1-4581",
+  "files": [
+    {
+      "name": "Nightcore_-_Courtesy_Call_.But_it_hits_different._.Lyrics._-48KmbuCi_4_480p.mp4",
+      "url": "https://github.com/shahrokhzhean5-ops/Cloud-Downloads12/releases/download/co-releases-v1-4581/Nightcore_-_Courtesy_Call_.But_it_hits_different._.Lyrics._-48KmbuCi_4_480p.mp4",
+      "api_url": "https://api.github.com/repos/shahrokhzhean5-ops/Cloud-Downloads12/releases/assets/427828333",
+      "id": 427828333,
+      "size": 22948469,
+      "download_count": 0
+    }
+  ]
+}
