@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1292",
+  "folder": "YouTube__watch_20260523111809_05db71",
+  "base_name": "Nightcore_-_Best_of_Me_(But_it_hits_different)_(Lyrics)_ekrpkvu0d44_360p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/shahrokhzhean5-ops/Cloud-Downloads12/releases/tag/co-releases-v1-1292",
+  "files": [
+    {
+      "name": "Nightcore_-_Best_of_Me_.But_it_hits_different._.Lyrics._ekrpkvu0d44_360p.mp4",
+      "url": "https://github.com/shahrokhzhean5-ops/Cloud-Downloads12/releases/download/co-releases-v1-1292/Nightcore_-_Best_of_Me_.But_it_hits_different._.Lyrics._ekrpkvu0d44_360p.mp4",
+      "api_url": "https://api.github.com/repos/shahrokhzhean5-ops/Cloud-Downloads12/releases/assets/427834658",
+      "id": 427834658,
+      "size": 19182026,
+      "download_count": 0
+    }
+  ]
+}
